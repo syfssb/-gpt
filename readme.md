@@ -42,7 +42,7 @@
 
 ##### Claude 系列。。。。
 ##### Grok 系列。。。。
-######Grok-3 Deepsearch
+###### Grok-3 Deepsearch
 可以联网查询当前的实时信息，非常全面
 <img width="1174" alt="image" src="https://github.com/user-attachments/assets/69d192ee-7182-494a-a68d-582b1522f299" />
 
