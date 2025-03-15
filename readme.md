@@ -41,6 +41,17 @@
 
 
 ##### Claude 系列。。。。
+##### Grok 系列。。。。
+######Grok-3 Deepsearch
+可以联网查询当前的实时信息，非常全面
+<img width="1174" alt="image" src="https://github.com/user-attachments/assets/69d192ee-7182-494a-a68d-582b1522f299" />
+
+<img width="1175" alt="image" src="https://github.com/user-attachments/assets/53f1cc9f-b6ab-4a9c-97b2-5883fb060518" />
+##### deepseek 系列全部免费
+
+
+
+
 
 ##### 角色仓库
 <img width="1186" alt="image" src="https://github.com/syfssb/-gpt/assets/20169170/20cc6d8e-8843-45a4-9b23-2a350cec0fae">
